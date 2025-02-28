@@ -1,0 +1,54 @@
+Pieza,Medida,Mecanizados,Material,Cantidad
+Encimera Comodilla,1435x443x12,Ingle 1 Largo,Aurora Bisque M612,1
+Frontal Encimera Comodilla,1435x50x12,Ingle 1 Largo,Aurora Bisque M612,1
+Costado Comodilla,668x423x12,CNC,Aurora Bisque M612,2
+Relleno Frontal Encimera,1411x12x12,,Aurora Bisque M612,1
+Mangueta Comodilla,1411x68x12,,Aurora Bisque M612,1
+Costado Interior Comodilla,399x658x16,"Ingle 1 Corto, CNC",Melamina Blanca FINSA SR209 Soft III,1
+Suelo Interior Comodilla,399x1451x16,Ingle 2 Cortos,Melamina Blanca FINSA SR209 Soft III,1
+Techo Interior Comodilla,387x1451x16,Ingle 2 Cortos,Melamina Blanca FINSA SR209 Soft III,1
+Zócalo Comodilla,1411x50x12,,Aurora Bisque M612,1
+Trasera Comodilla,586x1379x16,,Melamina Blanca FINSA SR209 Soft III,1
+Divisor Comodilla,383x586x16,CNC,Melamina Blanca FINSA SR209 Soft III,1
+Lateral Zócalo,409x50x16,Ingle 2 Cortos,MDF,2
+Trasera Zócalo,1451x50x16,Ingle 2 Cortos,MDF,2
+Relleno Nivelador,337x40x30,Taladros Niveladores,MDF,3
+Puerta Lateral,586x467x12,CNC,Aurora Bisque M612,1
+Regreso Hor Puerta Lateral,12x467x12,,Aurora Bisque M612,2
+Regreso Ver Puerta Lateral,562x12x12,,Aurora Bisque M612,2
+Relleno Puerta Lateral,562x443x12,CNC,MDF,1
+Puerta Central,586x469x12,,Aurora Bisque M612,1
+Regreso Hor Puerta Central,12x469x12,,Aurora Bisque M612,2
+Regreso Ver Puerta Central,562x12x12,,Aurora Bisque M612,2
+Relleno Puerta Central,562x445x12,,Melamina Blanca FINSA SR209 Soft III,1
+Entrepano Ajustable Peq,378x917x16,,Melamina Blanca FINSA SR209 Soft III,1
+Entrepano Ajustable Grande,446x378x16,,Melamina Blanca FINSA SR209 Soft III,1
+Frontal Interior Sup,898x1598x10,CNC,MDF,4
+Listón Vertical Largo,1598x30x30,,Pino,8
+Listón Vertical Corto,534x30x30,,Pino,8
+Listón Vertical Centro,1064x30x30,,Pino,8
+Listón Horizontal Frontal,838x30x30,,Pino,24
+Listón Horizontal Frontal Corto,87x30x30,,Pino,8
+Listón Horizontal Lateral,152x30x30,,Pino,44
+Curva Guía,525.22x525.22x30,,MDF,8
+Frontal Interior Sup,1485x212x5,CNC,Okumen Curvable,4
+Listón Largo Pilastra,1622x30x30,,Pino,16
+Costado Interior,1622x222x12,,MDF,4
+Listón Horizontal Frontal Pilastra,80x30x30,,Pino,24
+Listón Horizontal Lateral Pilastra,162x30x30,,Pino,24
+Lateral Módulo Sup,1598x270x12,,Aurora Bisque M612,2
+Frontal Pilastra,1622x184x12,,Aurora Bisque M612,2
+Frontal Izq Módulo Sup,1598x740x12,,Aurora Bisque M612,1
+Frontal Central Módulo Sup,1598x380x12,,Aurora Bisque M612,1
+Frontal Der Módulo Sup,1598x740x12,,Aurora Bisque M612,1
+Trasera Inf,1796x1222x16,,Melamina Blanca FINSA SR209 Soft III,1
+Trasera Sup,1796x1598x16,,Melamina Blanca FINSA SR209 Soft III,1
+Metacrilato Curvo,2230x225x5,,Metacrilato Espejo,1
+Frontal,1658x168x12,Ingle 1 Corto,Aurora Bisque M612,2
+Techo,268.5x168x12,"Ingle 1 Corto, 1 Largo",Aurora Bisque M612,2
+Costado,658x217x12,"Ingle 1 Corto, 1 Largo",Aurora Bisque M612,2
+Frontal Interior,1646x164x10,"Ingle 1 Corto, 2 Largos",MDF,4
+Costado Interior,1646x276.5x10,"Ingle 1 Corto, 2 Largos",MDF,4
+Techo Interior,276.5x164x10,"Ingle 2 Cortos, 2 Largos",MDF,2
+Costado Exterior,1658x268.5x12,,Aurora Bisque M612,2
+Soporte Espejos,968x217x6,,MDF,2
